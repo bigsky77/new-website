@@ -14,8 +14,8 @@ const Payments = () => {
 
   return (
     <div>
-      <stripe-pricing-table pricing-table-id="prctbl_1NcZJ9EPWZ5HDCnLzYHjIlJv"
-        publishable-key="pk_live_51NcWRqEPWZ5HDCnLV2R8HCOy6BJaXVRkluJxEYIchiMZEYrertv4shd66r4YSccrcIZ6uc5x08YBvrEHkXKlAVaP00FtyX5eXw">
+      <stripe-pricing-table pricing-table-id="prctbl_1NdFQhEPWZ5HDCnLLK75AMl0"
+        publishable-key="pk_test_51NcWRqEPWZ5HDCnLhSxOw2tvw6Va9NUlUZe1V9CcfEfvzaZWGfP14biFalXEujs0N8s5g3d9ITUuW7uKNlcULwV500VymMKaJD">
       </stripe-pricing-table>
     </div>
   );
