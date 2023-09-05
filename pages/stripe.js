@@ -14,10 +14,10 @@ const Payments = () => {
 
   return (
     <div>
-        <stripe-pricing-table pricing-table-id="prctbl_1NmZH4EPWZ5HDCnLUfp6r0my"
+        <stripe-pricing-table pricing-table-id="prctbl_1NmvNYEPWZ5HDCnLYaFEe3OE"
           publishable-key="pk_live_51NcWRqEPWZ5HDCnLV2R8HCOy6BJaXVRkluJxEYIchiMZEYrertv4shd66r4YSccrcIZ6uc5x08YBvrEHkXKlAVaP00FtyX5eXw">
-        </stripe-pricing-table>
-      </div>
+       </stripe-pricing-table>
+  </div>
   );
 };
 
